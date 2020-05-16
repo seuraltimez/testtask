@@ -444,8 +444,10 @@ section{
 			flex-direction: column;
 			justify-content: center;
 			align-items: center;
-			span{
+			.trial_link{
+				color: #777;
 				margin-bottom: 15px;
+				font-weight: 300;
 			}
 			.btn:after{
 				position: absolute;
