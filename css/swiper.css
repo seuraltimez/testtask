@@ -509,14 +509,14 @@ background-repeat: no-repeat
 	height: auto;
 	padding: 0 15px;
 }
-.testimonials_slide.swiper-slide {
+/*.testimonials_slide.swiper-slide {
 	width: 260px;
 	height: auto;
-}
+}*/
 .two .swiper-slide {
 	width: 300px;
 }
-.swiper-slide img {
+.two .swiper-slide img {
 	box-shadow: 0px 30px 40px 0px rgba(0, 0, 0, 0.1);
 	height: 500px;
 	margin: 0 auto;
