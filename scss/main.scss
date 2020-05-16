@@ -515,13 +515,11 @@ section{
 		.block_pricing__services:after{
 			background-color: #fff;
 		}
-		.block_pricing__btn{
-			.btn:hover:after{
-				opacity: 1;
-			}
-			.btn:hover{
-				color: #fff;
-			}
+		.btn:after{
+			opacity: 1;
+		}
+		.btn{
+			color: #fff;
 		}
 	}
 }
