@@ -78,7 +78,7 @@ function initMenu() {
 }
 
 function initSwiper() {
-  var swiper = new Swiper( '.swiper-container.two', {
+  var swiper1 = new Swiper( '.swiper-container.two', {
     nextButton: '.button-next',
     prevButton: '.button-prev',
     paginationClickable: true,
@@ -108,7 +108,7 @@ function initSwiper() {
     }
   });
 
-  var swiper = new Swiper('.swiper-container.testimonials-slider', {
+  var swiper2 = new Swiper('.swiper-container.testimonials-slider', {
     slidesPerView: 'auto',
     centeredSlides: true,
     spaceBetween: 30,
