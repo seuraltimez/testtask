@@ -504,15 +504,16 @@ background-repeat: no-repeat
 	margin: auto;
 	width: 100%;
 }
-.swiper-slide {
+.two .swiper-slide {
 	width: 390px;
 	height: auto;
 	padding: 0 15px;
 }
-/*.testimonials_slide.swiper-slide {
+.testimonials_slide.swiper-slide {
 	width: 260px;
 	height: auto;
-}*/
+	margin: 0 15px;
+}
 .two .swiper-slide {
 	width: 300px;
 }
